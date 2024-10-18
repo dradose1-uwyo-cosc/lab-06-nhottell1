@@ -2,7 +2,7 @@
 ## [Assignment 6]
 ## [Submission date: 10/17/24]
 ## Worked with/sources Bradley Ekstrom, Riley Green
-* example
+* Internet
 * example
 * example
 * example
